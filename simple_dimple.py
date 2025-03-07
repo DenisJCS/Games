@@ -50,3 +50,12 @@ for day in daily_weather:
 
 print("Leaves:", leaves)
 display_simulation()
+
+Leaves: 19
+      🌿🌿🌿🌿  ☀️
+    🌿🌿🌿🌿🌿🌿
+    🌿⟍🌿🌿⟋🌿
+     🌿(^_^)🌿
+      🌿| |🌿
+      🌿| |
+       ⟋  ⟍ 
