@@ -34,3 +34,19 @@ Leaves: 11
        (^_^)
         | |
         | |
+
+
+"""Day two on brilliant """
+leaves = 11
+water = 1
+daily_weather = ["☀️", "☁️", "☀️"]
+
+for day in daily_weather: 
+  if day == "☀️": 
+    light = 2
+  else:
+    light = 1
+  leaves += light + water
+
+print("Leaves:", leaves)
+display_simulation()
